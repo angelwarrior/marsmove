@@ -1,0 +1,10 @@
+{
+    "name": "marsmove",
+    "version": "1.0.0",
+    "manifest_version": 1,
+    "project_type": "application",
+    "executable_type": "scratch",
+    "executable": "marsmove.xml",
+    "author": "angelwarrior",
+    "minimum_firmware_version": 42
+}
